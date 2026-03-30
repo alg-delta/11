@@ -1,0 +1,46 @@
+.section-slides {
+	/* background-color: pink; */
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.slide1 {
+	width: 600px;
+	height: 400px;
+	background-image: url(tab1.jpg);
+	background-size: cover;
+}
+
+.slide2 {
+	width: 600px;
+	height: 400px;
+	background-image: url(tab2.jpg);
+	background-size: cover;
+}
+
+.slide3 {
+	width: 600px;
+	height: 400px;
+	background-image: url(tab3.jpg);
+	background-size: cover;
+}
+
+.slide4 {
+	width: 600px;
+	height: 400px;
+	background-image: url(tab4.jpg);
+	background-size: cover;
+}
+
+.bykvu {
+	background-color: white;
+	opacity: 70%;
+	font-size: 18px;
+	text-align: center;
+	padding: 10px;
+	font-family: Comic Sans MS; 
+    /* Verdana Impact cursive */
+}
+
+
